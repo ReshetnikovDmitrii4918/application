@@ -24,5 +24,14 @@
 
 Рисунок 4 - Этапы создания игры
 
+Страницы с правилами игры в соответствии с рисунками 5-6.
+
+![image](https://user-images.githubusercontent.com/75118943/178727563-5cef0d7c-a30c-44da-b6af-c7cbf96fbccf.png)
+
+Рисунок 5 - Правила игры
+
+![image](https://user-images.githubusercontent.com/75118943/178727608-e531d6d8-00b7-49df-b5ae-1d136c97bfc1.png)
+
+Рисунок 6 - Правила игры
 **Тестирование**
 
