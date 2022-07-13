@@ -33,5 +33,21 @@
 ![image](https://user-images.githubusercontent.com/75118943/178727608-e531d6d8-00b7-49df-b5ae-1d136c97bfc1.png)
 
 Рисунок 6 - Правила игры
+
 **Тестирование**
+
+Этапы игры в соответствии с рисунками 7-9.
+
+![image](https://user-images.githubusercontent.com/75118943/178727876-3bf4d262-877e-47c9-b47c-d5381b1ec453.png)
+
+Рисунок 7 - Этап игры
+
+![image](https://user-images.githubusercontent.com/75118943/178727967-2ab4b9b7-f615-4bcf-9c01-9ddc9ce443fd.png)
+
+
+Рисунок 8 - Этап игры
+
+![image](https://user-images.githubusercontent.com/75118943/178728054-06df35fa-3597-4166-9315-0b3c5e68db1d.png)
+
+Рисунок 9 - Этап игры
 
